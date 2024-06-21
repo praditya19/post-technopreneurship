@@ -85,3 +85,7 @@ Menjalankan aplikasi
 ```bash
 php artisan serve
 ```
+
+## License
+
+[MIT license](https://opensource.org/licenses/MIT)
